@@ -1,0 +1,15 @@
+#langages{
+    display: flex;
+    justify-content: center;
+}
+
+#langages img{
+    width: 18%;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
