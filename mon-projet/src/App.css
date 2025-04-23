@@ -1,10 +1,10 @@
 #langages{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 #langages img{
-    width: 18%;
+    width: 50px;
 }
 
 header{
@@ -13,3 +13,7 @@ header{
     padding: 20px;
 }
 
+#profile h1{
+    color: green;
+    font-size: 2rem;
+}
